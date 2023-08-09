@@ -36,7 +36,7 @@ Setup venv using pyenv Python3.8 binary
 ```
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 ~/.pyenv/bin/install 3.8
-~/.pyenv/versions/3.8.17/bin/python3.8 venv -m venv venv
+~/.pyenv/versions/3.8.17/bin/python3.8 -m venv venv
 ```
 
 ### Buildout
