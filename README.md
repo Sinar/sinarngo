@@ -1,5 +1,15 @@
 # Sinar NGO
 
+A Plone buildout for Plone site with common add-ons and behaviours for 
+a unified NGO website for public publication of content and capturing MEL metadata.
+
+Currently in use by:
+
+ * Sinar Project website https://github.com/Sinar/sinarproject.org
+ * Intranet https://github.com/Sinar/foe-km/
+ * Public Project site (iMAP) https://github.com/Sinar/imap
+   
+
 ## Installation and Buildout
 
 ### Ubuntu 22.04.2 LTS
