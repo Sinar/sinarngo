@@ -21,9 +21,14 @@ Currently in use by:
 sudo apt install build-essential python3-dev python3-venv
 ```
 
+#### Clone repository
+
+```git clone https://github.com/sinarngo/sinarngo.buildout.git```
+
 #### Setup venv and buildout environment U
 
 ```
+cd sinarngo.buildout
 python3 -m venv venv
 venv/bin/pip install setuptools==75.8.2 zc.buildout==4.1.3 wheel==0.45.1 \
 plonecli
